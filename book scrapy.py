@@ -1,6 +1,6 @@
 import urllib.request
 import re
-from urllib import request
+
 url="https://tw.uukanshu.com/b/123166/"
 
 
