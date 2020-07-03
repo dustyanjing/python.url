@@ -38,4 +38,4 @@ while True:
     f=json.loads(html)#解析字典
     print('翻译的结果为:' ,  (f["translateResult"][0][0]["tgt"]))
 
-    #time.sleep(3)#sleep 3 后继续执行
+    time.sleep(3)#sleep 3 后继续执行
